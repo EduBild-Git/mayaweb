@@ -1,0 +1,8 @@
+
+/* Custom styles for Dr. Maya Sharma site */
+body { font-family: 'Lato', sans-serif; }
+.hero-title { font-family: 'Playfair Display', serif; }
+.publication-card { transition: transform 0.2s ease, box-shadow 0.2s ease; }
+.publication-card:hover { transform: translateY(-6px); box-shadow: 0 12px 28px rgba(0,0,0,0.12); }
+.stat-pill { background: rgba(29,78,216,.06); border: 1px solid rgba(29,78,216,.15); }
+.chart-container { height: 300px; width: 100%; }
